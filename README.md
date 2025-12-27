@@ -49,32 +49,48 @@ The **Yummy Café** Ordering System allows café owners and staff to manage menu
 
 ## Screenshots 📸
 
-### Login as **Requestor**:
-![Login](https://github.com/user-attachments/assets/1e9f155c-62d4-4ed7-8ebe-ac654e0c5a59)
-![List Ticket](https://github.com/user-attachments/assets/39b91adc-bed0-4633-9649-f558ad5b129f)
-![CreateTicket](https://github.com/user-attachments/assets/07c08ffa-606d-4036-98d0-44b8d27dec71)
-![Detail Ticket](https://github.com/user-attachments/assets/fad8b1ad-003f-4e35-8412-f1957f9be710)
-![Confirm Ticket](https://github.com/user-attachments/assets/f9005e79-7c53-4d18-a668-5ef02e93b676)
+### Login as **Admin/Cashier**:
+![Image](https://github.com/user-attachments/assets/c96c333a-55fb-4e0d-b479-9a4082636e07)
 
-### Login as **Requestor Officer IT/GA**:
+![Image](https://github.com/user-attachments/assets/f2c39854-f264-4ee4-8c4f-c1559813561b)
 
-![Login](https://github.com/user-attachments/assets/b9690e5a-66fc-4c4f-b3dc-cbcb0d79f81c)
-![Dashboard](https://github.com/user-attachments/assets/afb8e810-10fe-4f78-bf4a-81ae51b2de9b)
-![Ticket Board](https://github.com/user-attachments/assets/21012a55-cf5d-4040-901a-48e0687901da)
-![Report Tickets](https://github.com/user-attachments/assets/9f6a872a-cd03-45ea-8a2f-5612490684e3)
-![Kategori](https://github.com/user-attachments/assets/a8686d2c-e027-4f73-b3cc-2b0954f0ac23)
-![Sub Kategori](https://github.com/user-attachments/assets/34adc168-47d1-4fe1-8055-9626fc9b341b)
+![Image](https://github.com/user-attachments/assets/a4a20f5c-e258-4ea5-8222-3e614f9db662)
 
-### Email Notification to **Requestor**:
+![Image](https://github.com/user-attachments/assets/3c016236-e8b5-4159-aad3-bfb32b2467bd)
 
-* When a ticket is created:
-  ![Image](https://github.com/user-attachments/assets/d7c1301a-d8ab-47f4-9f70-dbada50bee7e)
-* When the ticket is being processed by the officer:
-  ![Image](https://github.com/user-attachments/assets/515f7f54-4e95-4d43-9e81-1b3ff2963825)
-* When the ticket is completed by the officer:
-  ![Image](https://github.com/user-attachments/assets/b11c37da-2561-4b8a-913c-172fd63ab7b5)
-* When the ticket is confirmed by the requestor:
-  ![Image](https://github.com/user-attachments/assets/214aeb11-bc40-4080-918a-07274fdca78a)
+![Image](https://github.com/user-attachments/assets/236b3080-c2b2-4c3a-87de-206ed18fe724)
+
+![Image](https://github.com/user-attachments/assets/0944541c-f58c-4e6a-be28-be7c6e62ae5f)
+
+![Image](https://github.com/user-attachments/assets/21472d49-2865-4bc9-845b-5a30829a8f50)
+
+![Image](https://github.com/user-attachments/assets/cda904ba-b843-42b2-8a86-eeb5b31288f7)
+
+![Image](https://github.com/user-attachments/assets/8f5b0570-cdf6-48f2-8ad4-0804a645cfa1)
+
+![Image](https://github.com/user-attachments/assets/99960199-b132-4996-92b4-4395290edd19)
+
+![Image](https://github.com/user-attachments/assets/bb17ed17-1787-4d98-b8ae-44b96f0e94bc)
+
+![Image](https://github.com/user-attachments/assets/2bd98819-ec65-4ad0-b46c-f928c0401bf0)
+
+![Image](https://github.com/user-attachments/assets/3101b3c4-7f5c-40b4-8217-d88b3f650861)
+
+![Image](https://github.com/user-attachments/assets/9ac539a8-fcca-4e8a-925c-bfc69a8d78da)
+
+![Image](https://github.com/user-attachments/assets/51fef8a6-fd17-4a09-a32c-fbf3ca57303d)
+
+![Image](https://github.com/user-attachments/assets/7f84494d-d464-43ae-b596-e3832a7da084)
+
+![Image](https://github.com/user-attachments/assets/73e84f6b-3a25-4a50-bfcd-62e5d244d4f1)
+
+![Image](https://github.com/user-attachments/assets/4e83ed01-56ea-43fa-9117-630d67fa6eea)
+
+![Image](https://github.com/user-attachments/assets/765b1ba7-2800-45c5-b28e-eb3bec6c7e6d)
+
+![Image](https://github.com/user-attachments/assets/6ded16b5-f84f-4554-8fe2-119bb6b9366c)
+
+![Image](https://github.com/user-attachments/assets/ee53164c-7e68-4dec-a585-95e1aa646205)
 
   
 ## Conclusion 🎯
