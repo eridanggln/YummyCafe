@@ -50,25 +50,25 @@ The **Yummy Café** Ordering System allows café owners and staff to manage menu
 ## Screenshots 📸
 
 ### Login as **Admin/Cashier**:
-![Image](https://github.com/user-attachments/assets/c96c333a-55fb-4e0d-b479-9a4082636e07)
+![Login](https://github.com/user-attachments/assets/c96c333a-55fb-4e0d-b479-9a4082636e07)
 
-![Image](https://github.com/user-attachments/assets/f2c39854-f264-4ee4-8c4f-c1559813561b)
+![Dashboard](https://github.com/user-attachments/assets/f2c39854-f264-4ee4-8c4f-c1559813561b)
 
-![Image](https://github.com/user-attachments/assets/a4a20f5c-e258-4ea5-8222-3e614f9db662)
+![Kelola Menu](https://github.com/user-attachments/assets/a4a20f5c-e258-4ea5-8222-3e614f9db662)
 
-![Image](https://github.com/user-attachments/assets/3c016236-e8b5-4159-aad3-bfb32b2467bd)
+![Kelola Menu](https://github.com/user-attachments/assets/3c016236-e8b5-4159-aad3-bfb32b2467bd)
 
-![Image](https://github.com/user-attachments/assets/236b3080-c2b2-4c3a-87de-206ed18fe724)
+![Kelola Menu](https://github.com/user-attachments/assets/236b3080-c2b2-4c3a-87de-206ed18fe724)
 
-![Image](https://github.com/user-attachments/assets/0944541c-f58c-4e6a-be28-be7c6e62ae5f)
+![Kelola Menu](https://github.com/user-attachments/assets/0944541c-f58c-4e6a-be28-be7c6e62ae5f)
 
-![Image](https://github.com/user-attachments/assets/21472d49-2865-4bc9-845b-5a30829a8f50)
+![Tambah Menu](https://github.com/user-attachments/assets/21472d49-2865-4bc9-845b-5a30829a8f50)
 
-![Image](https://github.com/user-attachments/assets/cda904ba-b843-42b2-8a86-eeb5b31288f7)
+![Tambah Add On](https://github.com/user-attachments/assets/cda904ba-b843-42b2-8a86-eeb5b31288f7)
 
-![Image](https://github.com/user-attachments/assets/8f5b0570-cdf6-48f2-8ad4-0804a645cfa1)
+![Edit Menu](https://github.com/user-attachments/assets/8f5b0570-cdf6-48f2-8ad4-0804a645cfa1)
 
-![Image](https://github.com/user-attachments/assets/99960199-b132-4996-92b4-4395290edd19)
+![Status Menu](https://github.com/user-attachments/assets/99960199-b132-4996-92b4-4395290edd19)
 
 ![Image](https://github.com/user-attachments/assets/bb17ed17-1787-4d98-b8ae-44b96f0e94bc)
 
